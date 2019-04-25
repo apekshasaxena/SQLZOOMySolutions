@@ -1,1 +1,1 @@
-My Solutions to the SQLZOO Questions: https://sqlzoo.net
+My Solutions to the SQLZOO Questions on https://sqlzoo.net
